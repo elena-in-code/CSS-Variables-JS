@@ -1,4 +1,4 @@
-<h1><a href="https://elena-in-code.github.io/CSS-Variables-JS/"><strong>Clock-CSS-JS</strong></a></h1>
+<h1><a href="https://elena-in-code.github.io/CSS-Variables-JS/"><strong>Update CSS variables with javaScript</strong></a></h1>
 <img src="https://user-images.githubusercontent.com/30567608/29573327-fa9bed52-875e-11e7-92a5-844aefb8bf52.PNG">
 <p>Based on the project part of the course "javaScript30" by <a href="https://javascript30.com/"><strong>Wes Bos</strong></a></p>
 <h3>Technologies used: </h3>
